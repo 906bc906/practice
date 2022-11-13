@@ -1,0 +1,8 @@
+{
+  "name": "pg",
+  "packageManager": "yarn@3.2.4",
+  "dependencies": {
+    "knex": "^2.3.0",
+    "pg": "^8.8.0"
+  }
+}
