@@ -1,0 +1,7 @@
+{
+  "name": "neo4j",
+  "packageManager": "yarn@3.2.4",
+  "dependencies": {
+    "neo4j-driver": "^5.2.0"
+  }
+}
