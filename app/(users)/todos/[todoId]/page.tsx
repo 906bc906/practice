@@ -1,7 +1,7 @@
 // CSR: 'use client';
 
 import React from 'react'
-import { Todo } from '../../../typings';
+import { Todo } from '../../../../typings';
 import { notFound } from 'next/navigation'
 
 //generateStaticParams 에 의해 생성되지 않은 dynamic sgement 에 방문했을 때의 행동을 정의함

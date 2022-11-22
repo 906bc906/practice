@@ -4,8 +4,7 @@ import TodosList from './TodosList'
 function Todos() {
   return (
     <div>
-      {/* @ts-expect-error Server Component */}
-      <TodosList />
+      <h1>This sis where the Todos will be listed...</h1>
     </div>
   )
 }
